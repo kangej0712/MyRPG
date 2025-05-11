@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 317336519cb09594c86eb7992cfba9ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5975316437507613235
+    second: 6-middleground-buildings_billboard_0
+  - first:
+      213: -2338080528439025727
+    second: 6-middleground-buildings_billboard_1
+  - first:
+      213: -4671156392964747083
+    second: 6-middleground-buildings_billboard_2
+  - first:
+      213: 8244579923432681078
+    second: 6-middleground-buildings_billboard_3
+  - first:
+      213: 2900275498234643697
+    second: 6-middleground-buildings_billboard_4
+  - first:
+      213: 3051587962240845294
+    second: 6-middleground-buildings_billboard_5
+  - first:
+      213: 6596985269772971394
+    second: 6-middleground-buildings_billboard_6
+  - first:
+      213: 202075765779214080
+    second: 6-middleground-buildings_billboard_7
+  - first:
+      213: -5407062803119196127
+    second: 6-middleground-buildings_billboard_8
+  - first:
+      213: 945898000856151283
+    second: 6-middleground-buildings_billboard_9
+  - first:
+      213: 3967487873208699204
+    second: 6-middleground-buildings_billboard_10
+  - first:
+      213: 6715375474115595264
+    second: 6-middleground-buildings_billboard_11
+  - first:
+      213: 8535308553383279198
+    second: 6-middleground-buildings_billboard_12
+  - first:
+      213: -5302858141680469959
+    second: 6-middleground-buildings_billboard_13
+  - first:
+      213: 5844501639974949318
+    second: 6-middleground-buildings_billboard_14
+  - first:
+      213: -7215166362616938063
+    second: 6-middleground-buildings_billboard_15
+  - first:
+      213: 6606589081229587887
+    second: 6-middleground-buildings_billboard_16
+  - first:
+      213: -3616286332886639003
+    second: 6-middleground-buildings_billboard_17
+  - first:
+      213: -2381274188851833031
+    second: 6-middleground-buildings_billboard_18
+  - first:
+      213: -7684653209291631097
+    second: 6-middleground-buildings_billboard_19
+  - first:
+      213: -794215625996832811
+    second: 6-middleground-buildings_billboard_20
+  - first:
+      213: 564406567416032112
+    second: 6-middleground-buildings_billboard_21
+  - first:
+      213: 5932189729954964485
+    second: 6-middleground-buildings_billboard_22
+  - first:
+      213: 4428526230452622529
+    second: 6-middleground-buildings_billboard_23
+  - first:
+      213: 388317158729638076
+    second: 6-middleground-buildings_billboard_24
+  - first:
+      213: 3519259326108999742
+    second: 6-middleground-buildings_billboard_25
+  - first:
+      213: -1581922999255559864
+    second: 6-middleground-buildings_billboard_26
+  - first:
+      213: -3342838374615337702
+    second: 6-middleground-buildings_billboard_27
+  - first:
+      213: 4747222556707340530
+    second: 6-middleground-buildings_billboard_28
+  - first:
+      213: 9162586674130256169
+    second: 6-middleground-buildings_billboard_29
+  - first:
+      213: -9187131735444159110
+    second: 6-middleground-buildings_billboard_30
+  - first:
+      213: -4393069353261415437
+    second: 6-middleground-buildings_billboard_31
+  - first:
+      213: 5139177730450872642
+    second: 6-middleground-buildings_billboard_32
+  - first:
+      213: 2531519602233146015
+    second: 6-middleground-buildings_billboard_33
+  - first:
+      213: -5275506595716474639
+    second: 6-middleground-buildings_billboard_34
+  - first:
+      213: 4182821329591622959
+    second: 6-middleground-buildings_billboard_35
+  - first:
+      213: 3274349647252409448
+    second: 6-middleground-buildings_billboard_36
+  - first:
+      213: -7604828403957049697
+    second: 6-middleground-buildings_billboard_37
+  - first:
+      213: -193994014436518052
+    second: 6-middleground-buildings_billboard_38
+  - first:
+      213: -7343000089815432301
+    second: 6-middleground-buildings_billboard_39
+  - first:
+      213: 3655341500320583647
+    second: 6-middleground-buildings_billboard_40
+  - first:
+      213: -261137063463876172
+    second: 6-middleground-buildings_billboard_41
+  - first:
+      213: 206775547643849659
+    second: 6-middleground-buildings_billboard_42
+  - first:
+      213: -2842431923147940175
+    second: 6-middleground-buildings_billboard_43
+  - first:
+      213: -8548400689893637986
+    second: 6-middleground-buildings_billboard_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_0
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332a13e24a69ce250800000000000000
+      internalID: 5975316437507613235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_1
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf5226a5287d8fd0800000000000000
+      internalID: -2338080528439025727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_2
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b09a0b6208bc2fb0800000000000000
+      internalID: -4671156392964747083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_3
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ea58a32c1aa6270800000000000000
+      internalID: 8244579923432681078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_4
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48b070339df3820800000000000000
+      internalID: 2900275498234643697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_5
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5493a651b695a20800000000000000
+      internalID: 3051587962240845294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_6
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d6d4986233d8b50800000000000000
+      internalID: 6596985269772971394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_7
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f2cfc96daedc200800000000000000
+      internalID: 202075765779214080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_8
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283ad5470146f4b0800000000000000
+      internalID: -5407062803119196127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_9
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f478ce5831802d00800000000000000
+      internalID: 945898000856151283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_10
+      rect:
+        serializedVersion: 2
+        x: 5541
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449464533395f0730800000000000000
+      internalID: 3967487873208699204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_11
+      rect:
+        serializedVersion: 2
+        x: 6053
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cc7040a6ec13d50800000000000000
+      internalID: 6715375474115595264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_12
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a73c448e1837670800000000000000
+      internalID: 8535308553383279198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_13
+      rect:
+        serializedVersion: 2
+        x: 7077
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f8daad967866b0800000000000000
+      internalID: -5302858141680469959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_14
+      rect:
+        serializedVersion: 2
+        x: 7589
+        y: 138
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c115eba647db1150800000000000000
+      internalID: 5844501639974949318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1ced8bb649edb90800000000000000
+      internalID: -7215166362616938063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5f9a324c15fab50800000000000000
+      internalID: 6606589081229587887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e113a7dbe50ddc0800000000000000
+      internalID: -3616286332886639003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9371ea4edb304fed0800000000000000
+      internalID: -2381274188851833031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_19
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7065b160f90aa5590800000000000000
+      internalID: -7684653209291631097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_20
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfe46998116af4f0800000000000000
+      internalID: -794215625996832811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_21
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07beabf58cc25d700800000000000000
+      internalID: 564406567416032112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_22
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504af2a112f535250800000000000000
+      internalID: 5932189729954964485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_23
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d0aca429457d30800000000000000
+      internalID: 4428526230452622529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_24
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0e4420664936500800000000000000
+      internalID: 388317158729638076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_25
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30253516bbe6d030800000000000000
+      internalID: 3519259326108999742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_26
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8411a5fd961eb0ae0800000000000000
+      internalID: -1581922999255559864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_27
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15328b953adb91d0800000000000000
+      internalID: -3342838374615337702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_28
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0434273c581e140800000000000000
+      internalID: 4747222556707340530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_29
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921034fd80c082f70800000000000000
+      internalID: 9162586674130256169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_30
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a750224bc50c08080800000000000000
+      internalID: -9187131735444159110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_31
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3c23dd2bea803c0800000000000000
+      internalID: -4393069353261415437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_32
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2495f15dae6025740800000000000000
+      internalID: 5139177730450872642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_33
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a7b096aa3c12320800000000000000
+      internalID: 2531519602233146015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_34
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8d618b3b2a9c6b0800000000000000
+      internalID: -5275506595716474639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_35
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d5c3576dd5c0a30800000000000000
+      internalID: 4182821329591622959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_36
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cc7eae7a3d07d20800000000000000
+      internalID: 3274349647252409448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_37
+      rect:
+        serializedVersion: 2
+        x: 5882
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96d654dbd8367690800000000000000
+      internalID: -7604828403957049697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_38
+      rect:
+        serializedVersion: 2
+        x: 5882
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5795f0c87bce4df0800000000000000
+      internalID: -193994014436518052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_39
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c3ecb25c681a90800000000000000
+      internalID: -7343000089815432301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_40
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf0a5b4ab16ab230800000000000000
+      internalID: 3655341500320583647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_41
+      rect:
+        serializedVersion: 2
+        x: 6906
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b90c8e6931406cf0800000000000000
+      internalID: -261137063463876172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_42
+      rect:
+        serializedVersion: 2
+        x: 6906
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb6c89d34d9ed200800000000000000
+      internalID: 206775547643849659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_43
+      rect:
+        serializedVersion: 2
+        x: 7418
+        y: 69
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be598ac937ad88d0800000000000000
+      internalID: -2842431923147940175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-middleground-buildings_billboard_44
+      rect:
+        serializedVersion: 2
+        x: 7418
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e908f292ddafd5980800000000000000
+      internalID: -8548400689893637986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

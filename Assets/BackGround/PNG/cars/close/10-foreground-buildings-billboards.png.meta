@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: 1bd868c8e8017254683f7983a5287490
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3470053402411368062
+    second: 10-foreground-buildings-billboards_0
+  - first:
+      213: 1299051810876037157
+    second: 10-foreground-buildings-billboards_1
+  - first:
+      213: 8443129200786858015
+    second: 10-foreground-buildings-billboards_2
+  - first:
+      213: 107734540097520985
+    second: 10-foreground-buildings-billboards_3
+  - first:
+      213: 1768437325130989270
+    second: 10-foreground-buildings-billboards_4
+  - first:
+      213: 8611200315574556251
+    second: 10-foreground-buildings-billboards_5
+  - first:
+      213: -4213412682408625947
+    second: 10-foreground-buildings-billboards_6
+  - first:
+      213: -7629257806621998944
+    second: 10-foreground-buildings-billboards_7
+  - first:
+      213: -1526832517774955464
+    second: 10-foreground-buildings-billboards_8
+  - first:
+      213: 7878573790443784013
+    second: 10-foreground-buildings-billboards_9
+  - first:
+      213: -2654826798282723612
+    second: 10-foreground-buildings-billboards_10
+  - first:
+      213: -5098368370646051917
+    second: 10-foreground-buildings-billboards_11
+  - first:
+      213: 3743716881976043083
+    second: 10-foreground-buildings-billboards_12
+  - first:
+      213: -8529266454540506012
+    second: 10-foreground-buildings-billboards_13
+  - first:
+      213: -2145065244546903813
+    second: 10-foreground-buildings-billboards_14
+  - first:
+      213: 1017801247662223199
+    second: 10-foreground-buildings-billboards_15
+  - first:
+      213: 6772725458387094296
+    second: 10-foreground-buildings-billboards_16
+  - first:
+      213: 9162848329741429000
+    second: 10-foreground-buildings-billboards_17
+  - first:
+      213: -2263037912299087060
+    second: 10-foreground-buildings-billboards_18
+  - first:
+      213: 8483291320387281467
+    second: 10-foreground-buildings-billboards_19
+  - first:
+      213: 3759749235377165248
+    second: 10-foreground-buildings-billboards_20
+  - first:
+      213: 3537474897574870486
+    second: 10-foreground-buildings-billboards_21
+  - first:
+      213: -2592172613076356228
+    second: 10-foreground-buildings-billboards_22
+  - first:
+      213: 2812370142827175016
+    second: 10-foreground-buildings-billboards_23
+  - first:
+      213: 7286927819337077762
+    second: 10-foreground-buildings-billboards_24
+  - first:
+      213: -4132092961760285116
+    second: 10-foreground-buildings-billboards_25
+  - first:
+      213: -5393490234360176994
+    second: 10-foreground-buildings-billboards_26
+  - first:
+      213: -8122937330560617088
+    second: 10-foreground-buildings-billboards_27
+  - first:
+      213: -3227761834950912225
+    second: 10-foreground-buildings-billboards_28
+  - first:
+      213: 7948069641959304113
+    second: 10-foreground-buildings-billboards_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e7d523f2b182030800000000000000
+      internalID: 3470053402411368062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52818144db8270210800000000000000
+      internalID: 1299051810876037157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_2
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10e0a546450c2570800000000000000
+      internalID: 8443129200786858015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_3
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9558d805effbe7100800000000000000
+      internalID: 107734540097520985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_4
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de79fba060ca8810800000000000000
+      internalID: 1768437325130989270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_5
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569d8b1011218770800000000000000
+      internalID: 8611200315574556251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_6
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e878ec2d73f685c0800000000000000
+      internalID: -4213412682408625947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_7
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a08b68427e6f1690800000000000000
+      internalID: -7629257806621998944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_8
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c22822ae99fcae0800000000000000
+      internalID: -1526832517774955464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_9
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47ca14be11565d60800000000000000
+      internalID: 7878573790443784013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_10
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeab24c719282bd0800000000000000
+      internalID: -2654826798282723612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_11
+      rect:
+        serializedVersion: 2
+        x: 5732
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b31e8daaf4fe39b0800000000000000
+      internalID: -5098368370646051917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_12
+      rect:
+        serializedVersion: 2
+        x: 6244
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46a0d94baa54f330800000000000000
+      internalID: 3743716881976043083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_13
+      rect:
+        serializedVersion: 2
+        x: 6756
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c257e7955f1a980800000000000000
+      internalID: -8529266454540506012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_14
+      rect:
+        serializedVersion: 2
+        x: 7268
+        y: 212
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0debe66823b32e0800000000000000
+      internalID: -2145065244546903813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f2bda97d4ff1e00800000000000000
+      internalID: 1017801247662223199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_16
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b4864cbed8dfd50800000000000000
+      internalID: 6772725458387094296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_17
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809e401520af82f70800000000000000
+      internalID: 9162848329741429000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_18
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bdb2442031890e0800000000000000
+      internalID: -2263037912299087060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_19
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32a6dd6284bab570800000000000000
+      internalID: 8483291320387281467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_20
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3d33372005d2430800000000000000
+      internalID: 3759749235377165248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_21
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddbfcf4da2a71130800000000000000
+      internalID: 3537474897574870486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_22
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7376190eb0c60cd0800000000000000
+      internalID: -2592172613076356228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_23
+      rect:
+        serializedVersion: 2
+        x: 4481
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cd02c8ebb870720800000000000000
+      internalID: 2812370142827175016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_24
+      rect:
+        serializedVersion: 2
+        x: 4993
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2049f7f6e3e502560800000000000000
+      internalID: 7286927819337077762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_25
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ee263185bd7a6c0800000000000000
+      internalID: -4132092961760285116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_26
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5c6135397625b0800000000000000
+      internalID: -5393490234360176994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_27
+      rect:
+        serializedVersion: 2
+        x: 6529
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085bc27f887854f80800000000000000
+      internalID: -8122937330560617088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_28
+      rect:
+        serializedVersion: 2
+        x: 7041
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17103866bfa433d0800000000000000
+      internalID: -3227761834950912225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-foreground-buildings-billboards_29
+      rect:
+        serializedVersion: 2
+        x: 7553
+        y: 86
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbec0b8a373d4e60800000000000000
+      internalID: 7948069641959304113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

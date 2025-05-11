@@ -1,0 +1,3768 @@
+fileFormatVersion: 2
+guid: 973615ad714d4294fbb54d5a1ad5e813
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7274363504333320498
+    second: all_Vomfy5_0
+  - first:
+      213: -4527226982387604791
+    second: all_Vomfy5_1
+  - first:
+      213: 8842299959962977610
+    second: all_Vomfy5_2
+  - first:
+      213: 5758322169242810005
+    second: all_Vomfy5_3
+  - first:
+      213: -6203871988404530885
+    second: all_Vomfy5_4
+  - first:
+      213: -6192049999399020718
+    second: all_Vomfy5_5
+  - first:
+      213: 3538099980615418559
+    second: all_Vomfy5_6
+  - first:
+      213: -6202367131681238116
+    second: all_Vomfy5_7
+  - first:
+      213: 5890542639296549530
+    second: all_Vomfy5_8
+  - first:
+      213: -2987164610725376343
+    second: all_Vomfy5_9
+  - first:
+      213: 601377818040653594
+    second: all_Vomfy5_10
+  - first:
+      213: 8611071600827102867
+    second: all_Vomfy5_11
+  - first:
+      213: -7080238643780064613
+    second: all_Vomfy5_12
+  - first:
+      213: 2508638980945460735
+    second: all_Vomfy5_13
+  - first:
+      213: -6937808944719338503
+    second: all_Vomfy5_14
+  - first:
+      213: 1447910682072507673
+    second: all_Vomfy5_15
+  - first:
+      213: -5637940474379014350
+    second: all_Vomfy5_16
+  - first:
+      213: 8933643317387867542
+    second: all_Vomfy5_17
+  - first:
+      213: 5769627136124500321
+    second: all_Vomfy5_18
+  - first:
+      213: 7969080362723248724
+    second: all_Vomfy5_19
+  - first:
+      213: -7936274955769404316
+    second: all_Vomfy5_20
+  - first:
+      213: -6854700128043095139
+    second: all_Vomfy5_21
+  - first:
+      213: -4914827154488423150
+    second: all_Vomfy5_22
+  - first:
+      213: -6714547470020271631
+    second: all_Vomfy5_23
+  - first:
+      213: 236961867708983944
+    second: all_Vomfy5_24
+  - first:
+      213: 7588486596161110218
+    second: all_Vomfy5_25
+  - first:
+      213: 6724682098317095678
+    second: all_Vomfy5_26
+  - first:
+      213: -5369130302329238830
+    second: all_Vomfy5_27
+  - first:
+      213: 6983566731938461726
+    second: all_Vomfy5_28
+  - first:
+      213: 6884326052558727995
+    second: all_Vomfy5_29
+  - first:
+      213: 9105870535542957069
+    second: all_Vomfy5_30
+  - first:
+      213: 2104524112246420569
+    second: all_Vomfy5_31
+  - first:
+      213: 4961755014416015579
+    second: all_Vomfy5_32
+  - first:
+      213: 8814031342060538075
+    second: all_Vomfy5_33
+  - first:
+      213: -3215578636023940867
+    second: all_Vomfy5_34
+  - first:
+      213: 7545115935406180313
+    second: all_Vomfy5_35
+  - first:
+      213: 2297429140938034981
+    second: all_Vomfy5_36
+  - first:
+      213: 1902511035160719955
+    second: all_Vomfy5_37
+  - first:
+      213: 7486519109037699738
+    second: all_Vomfy5_38
+  - first:
+      213: -9092289283353054794
+    second: all_Vomfy5_39
+  - first:
+      213: -3978329900103909924
+    second: all_Vomfy5_40
+  - first:
+      213: 304546984477361434
+    second: all_Vomfy5_41
+  - first:
+      213: 4356172158990565125
+    second: all_Vomfy5_42
+  - first:
+      213: 3325989734428814059
+    second: all_Vomfy5_43
+  - first:
+      213: 8312581406059007548
+    second: all_Vomfy5_44
+  - first:
+      213: -8363078612279316493
+    second: all_Vomfy5_45
+  - first:
+      213: -7197263466124072093
+    second: all_Vomfy5_46
+  - first:
+      213: 4234699090910953430
+    second: all_Vomfy5_47
+  - first:
+      213: 5136292331017396816
+    second: all_Vomfy5_48
+  - first:
+      213: 7841747088889843186
+    second: all_Vomfy5_49
+  - first:
+      213: -2837433868541178842
+    second: all_Vomfy5_50
+  - first:
+      213: 1138726000794118421
+    second: all_Vomfy5_51
+  - first:
+      213: -985751147215963438
+    second: all_Vomfy5_52
+  - first:
+      213: 7631988821386253883
+    second: all_Vomfy5_53
+  - first:
+      213: -6429531631421943093
+    second: all_Vomfy5_54
+  - first:
+      213: -2764689771669238755
+    second: all_Vomfy5_55
+  - first:
+      213: 5585610290001207596
+    second: all_Vomfy5_56
+  - first:
+      213: -2851185024749993652
+    second: all_Vomfy5_57
+  - first:
+      213: -3772326601919895909
+    second: all_Vomfy5_58
+  - first:
+      213: 3634744829235189492
+    second: all_Vomfy5_59
+  - first:
+      213: -7226958484365667019
+    second: all_Vomfy5_60
+  - first:
+      213: 7116850766393295167
+    second: all_Vomfy5_61
+  - first:
+      213: 352216684630698078
+    second: all_Vomfy5_62
+  - first:
+      213: 181450371239618102
+    second: all_Vomfy5_63
+  - first:
+      213: 3895718454855161134
+    second: all_Vomfy5_64
+  - first:
+      213: 5660765616637758507
+    second: all_Vomfy5_65
+  - first:
+      213: -97724225801437814
+    second: all_Vomfy5_66
+  - first:
+      213: 2348693177242038173
+    second: all_Vomfy5_67
+  - first:
+      213: -197209313029230726
+    second: all_Vomfy5_68
+  - first:
+      213: -2798172389445867200
+    second: all_Vomfy5_69
+  - first:
+      213: -8722477014676849565
+    second: all_Vomfy5_70
+  - first:
+      213: 4985521702686476331
+    second: all_Vomfy5_71
+  - first:
+      213: 4416831936455844055
+    second: all_Vomfy5_72
+  - first:
+      213: 8347744464451557628
+    second: all_Vomfy5_73
+  - first:
+      213: 5164901322417488007
+    second: all_Vomfy5_74
+  - first:
+      213: -8024392845574059695
+    second: all_Vomfy5_75
+  - first:
+      213: 8194463846285864545
+    second: all_Vomfy5_76
+  - first:
+      213: 4740385069248764957
+    second: all_Vomfy5_77
+  - first:
+      213: 5054857100710805605
+    second: all_Vomfy5_78
+  - first:
+      213: -3553272408480192770
+    second: all_Vomfy5_79
+  - first:
+      213: -2984323972932132750
+    second: all_Vomfy5_80
+  - first:
+      213: 8454881772219449836
+    second: all_Vomfy5_81
+  - first:
+      213: -2128157646535212467
+    second: all_Vomfy5_82
+  - first:
+      213: 6871841245480060124
+    second: all_Vomfy5_83
+  - first:
+      213: 8698321146222424574
+    second: all_Vomfy5_84
+  - first:
+      213: -1471877396217212091
+    second: all_Vomfy5_85
+  - first:
+      213: -1995845449363152406
+    second: all_Vomfy5_86
+  - first:
+      213: -8122199433253010957
+    second: all_Vomfy5_87
+  - first:
+      213: 4983650192934986530
+    second: all_Vomfy5_88
+  - first:
+      213: -1307960421783039413
+    second: all_Vomfy5_89
+  - first:
+      213: 4057546069631353235
+    second: all_Vomfy5_90
+  - first:
+      213: 4247454585598483457
+    second: all_Vomfy5_91
+  - first:
+      213: -6825966233287136408
+    second: all_Vomfy5_92
+  - first:
+      213: -6819038659606123650
+    second: all_Vomfy5_93
+  - first:
+      213: 5471569873631832986
+    second: all_Vomfy5_94
+  - first:
+      213: 4422269553669288418
+    second: all_Vomfy5_95
+  - first:
+      213: 2410506012162391022
+    second: all_Vomfy5_96
+  - first:
+      213: -2342489922248810079
+    second: all_Vomfy5_97
+  - first:
+      213: 2994666682083602307
+    second: all_Vomfy5_98
+  - first:
+      213: -7755579917993132357
+    second: all_Vomfy5_99
+  - first:
+      213: 7571056143091757415
+    second: all_Vomfy5_100
+  - first:
+      213: -5637622185587142062
+    second: all_Vomfy5_101
+  - first:
+      213: -5043795733863553564
+    second: all_Vomfy5_102
+  - first:
+      213: -7566425087492187886
+    second: all_Vomfy5_103
+  - first:
+      213: -8624926439880978709
+    second: all_Vomfy5_104
+  - first:
+      213: 884848805181309610
+    second: all_Vomfy5_105
+  - first:
+      213: 84428596247933741
+    second: all_Vomfy5_106
+  - first:
+      213: 3853167875310564505
+    second: all_Vomfy5_107
+  - first:
+      213: 1805403774069832179
+    second: all_Vomfy5_108
+  - first:
+      213: -8174091277442114449
+    second: all_Vomfy5_109
+  - first:
+      213: -821842502762223384
+    second: all_Vomfy5_110
+  - first:
+      213: -265105751960862743
+    second: all_Vomfy5_111
+  - first:
+      213: -676353447664641546
+    second: all_Vomfy5_112
+  - first:
+      213: -8770774449943365194
+    second: all_Vomfy5_113
+  - first:
+      213: -8565526997173812855
+    second: all_Vomfy5_114
+  - first:
+      213: -4040399430074628590
+    second: all_Vomfy5_115
+  - first:
+      213: -3242119651365227538
+    second: all_Vomfy5_116
+  - first:
+      213: -557046812644226905
+    second: all_Vomfy5_117
+  - first:
+      213: 6546697557265589160
+    second: all_Vomfy5_118
+  - first:
+      213: -9089237940177990663
+    second: all_Vomfy5_119
+  - first:
+      213: 3101540362251463254
+    second: all_Vomfy5_120
+  - first:
+      213: 2473792410080890237
+    second: all_Vomfy5_121
+  - first:
+      213: 6148593097353898683
+    second: all_Vomfy5_122
+  - first:
+      213: 7012909355637894932
+    second: all_Vomfy5_123
+  - first:
+      213: 1341176496639478899
+    second: all_Vomfy5_124
+  - first:
+      213: -2267992626158607842
+    second: all_Vomfy5_125
+  - first:
+      213: 4088196187060029436
+    second: all_Vomfy5_126
+  - first:
+      213: 885475721247912472
+    second: all_Vomfy5_127
+  - first:
+      213: 56123286667382676
+    second: all_Vomfy5_128
+  - first:
+      213: -5036568239804845535
+    second: all_Vomfy5_129
+  - first:
+      213: -1195670876003278826
+    second: all_Vomfy5_130
+  - first:
+      213: 7072267653401808214
+    second: all_Vomfy5_131
+  - first:
+      213: 4059165724946588908
+    second: all_Vomfy5_132
+  - first:
+      213: 2787252870126064994
+    second: all_Vomfy5_133
+  - first:
+      213: -4558051184354560348
+    second: all_Vomfy5_134
+  - first:
+      213: -3025332437693972885
+    second: all_Vomfy5_135
+  - first:
+      213: 6880773651867825932
+    second: all_Vomfy5_136
+  - first:
+      213: -1195374219913327458
+    second: all_Vomfy5_137
+  - first:
+      213: 5280963683357352401
+    second: all_Vomfy5_138
+  - first:
+      213: 2583206902926063516
+    second: all_Vomfy5_139
+  - first:
+      213: 1608447881502078051
+    second: all_Vomfy5_140
+  - first:
+      213: 1514842626866827683
+    second: all_Vomfy5_141
+  - first:
+      213: -7821608513520005851
+    second: all_Vomfy5_142
+  - first:
+      213: -666903793390873352
+    second: all_Vomfy5_143
+  - first:
+      213: 5345575899865290685
+    second: all_Vomfy5_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: all_Vomfy5_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 484
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece852d1fe44c0b90800000000000000
+      internalID: -7274363504333320498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 484
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c22939bb0f0c21c0800000000000000
+      internalID: -4527226982387604791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 484
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a454b0f07f826ba70800000000000000
+      internalID: 8842299959962977610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 479
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59679f7018ba9ef40800000000000000
+      internalID: 5758322169242810005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 479
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31d62bcb4b67e9a0800000000000000
+      internalID: -6203871988404530885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 479
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2571d5a155b611aa0800000000000000
+      internalID: -6192049999399020718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 479
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2066ccf2bd91130800000000000000
+      internalID: 3538099980615418559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 479
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93d49d84f3cce9a0800000000000000
+      internalID: -6202367131681238116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 479
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92109d22596fb150800000000000000
+      internalID: 5890542639296549530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae881cfc957b86d0800000000000000
+      internalID: -2987164610725376343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 452
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17dc1470f5885800800000000000000
+      internalID: 601377818040653594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 452
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396f0ce5ffba08770800000000000000
+      internalID: 8611071600827102867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 451
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aee785770fdbd90800000000000000
+      internalID: -7080238643780064613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 450
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdb3f0acd970d220800000000000000
+      internalID: 2508638980945460735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 451
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3e97ad583f7bf90800000000000000
+      internalID: -6937808944719338503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 451
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915ec6f0813081410800000000000000
+      internalID: 1447910682072507673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 449
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f67d7720302c1b0800000000000000
+      internalID: -5637940474379014350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 450
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69532f2c34daafb70800000000000000
+      internalID: 8933643317387867542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169b72fbf45d11050800000000000000
+      internalID: 5769627136124500321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 420
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a09ae2e5cd79e60800000000000000
+      internalID: 7969080362723248724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 420
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4642985d9ffacd190800000000000000
+      internalID: -7936274955769404316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 419
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9baa222d863fd0a0800000000000000
+      internalID: -6854700128043095139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 419
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d064c2eb60bcbb0800000000000000
+      internalID: -4914827154488423150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 419
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1a1f5b6a221d2a0800000000000000
+      internalID: -6714547470020271631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 419
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a6b1e209bd94300800000000000000
+      internalID: 236961867708983944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 419
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac00ffa8a58bf4960800000000000000
+      internalID: 7588486596161110218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 419
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef27e915dbed25d50800000000000000
+      internalID: 6724682098317095678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 388
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da41e8df640d75b0800000000000000
+      internalID: -5369130302329238830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 388
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e187d6231fc9ae060800000000000000
+      internalID: 6983566731938461726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 388
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3beab0f11a0a8f50800000000000000
+      internalID: 6884326052558727995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 388
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04ebb1d10d8e5e70800000000000000
+      internalID: 9105870535542957069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 395
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95431b3a785c43d10800000000000000
+      internalID: 2104524112246420569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 388
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0a7c8a5e1bbd440800000000000000
+      internalID: 4961755014416015579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 388
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88dae8ecab15a70800000000000000
+      internalID: 8814031342060538075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 383
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df835747448ff53d0800000000000000
+      internalID: -3215578636023940867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 383
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7460fa7f2a5b860800000000000000
+      internalID: 7545115935406180313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_36
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 383
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f0e32a1ab12ef10800000000000000
+      internalID: 2297429140938034981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 383
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f300e4b3176a10800000000000000
+      internalID: 1902511035160719955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 383
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92bd52e67575e760800000000000000
+      internalID: 7486519109037699738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 383
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b176aed113b1d180800000000000000
+      internalID: -9092289283353054794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 356
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddbdf0b8022ac8c0800000000000000
+      internalID: -3978329900103909924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 356
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15803b6ed7f93400800000000000000
+      internalID: 304546984477361434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 356
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f3415af7b347c30800000000000000
+      internalID: 4356172158990565125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 356
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaa937aa0a482e20800000000000000
+      internalID: 3325989734428814059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 363
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e0aa23fb83c5370800000000000000
+      internalID: 8312581406059007548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 356
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffac66cf4060fb80800000000000000
+      internalID: -8363078612279316493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_46
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 356
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b27c2a20f2e1c90800000000000000
+      internalID: -7197263466124072093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 353
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfba64036ca4ca30800000000000000
+      internalID: 4234699090910953430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 354
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052eadc69a6c74740800000000000000
+      internalID: 5136292331017396816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_49
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 353
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd8bb31e6b73dc60800000000000000
+      internalID: 7841747088889843186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 353
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cc0ff0ee86f98d0800000000000000
+      internalID: -2837433868541178842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 354
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519a5d5b3419dcf00800000000000000
+      internalID: 1138726000794118421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 354
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da3249ed88e152f0800000000000000
+      internalID: -985751147215963438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 324
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36da74a5654ae960800000000000000
+      internalID: 7631988821386253883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 324
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc215fcdb07b5c6a0800000000000000
+      internalID: -6429531631421943093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 324
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ccf75fc49d1a9d0800000000000000
+      internalID: -2764689771669238755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 324
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e94507f2148d40800000000000000
+      internalID: 5585610290001207596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 331
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c410dd2835e8e68d0800000000000000
+      internalID: -2851185024749993652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_58
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 324
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96eec331f006abc0800000000000000
+      internalID: -3772326601919895909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 324
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f650cb1a25317230800000000000000
+      internalID: 3634744829235189492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 323
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53593ec6c8fa4bb90800000000000000
+      internalID: -7226958484365667019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 323
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c65ab01224c260800000000000000
+      internalID: 7116850766393295167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_62
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 323
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e063653353e400800000000000000
+      internalID: 352216684630698078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_63
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 323
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a91ab624a48200800000000000000
+      internalID: 181450371239618102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_64
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 323
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2553965b4f501630800000000000000
+      internalID: 3895718454855161134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_65
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 323
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c407816541f8e40800000000000000
+      internalID: 5660765616637758507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 294
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8db72b9550d4aef0800000000000000
+      internalID: -97724225801437814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 294
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f25e3300c389020800000000000000
+      internalID: 2348693177242038173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 294
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f6e76bc2f534df0800000000000000
+      internalID: -197209313029230726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 294
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049e5c28905ea29d0800000000000000
+      internalID: -2798172389445867200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_70
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3daa6e5983f680800000000000000
+      internalID: -8722477014676849565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 290
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28c0acf291203540800000000000000
+      internalID: 4985521702686476331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02d0dae3dbb4d30800000000000000
+      internalID: 4416831936455844055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_73
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 290
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf85e57bc5529d370800000000000000
+      internalID: 8347744464451557628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_74
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 291
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c3ae436a6da740800000000000000
+      internalID: 5164901322417488007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_75
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 291
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594f55d831a3a090800000000000000
+      internalID: -8024392845574059695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_76
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 289
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e66aab37598b170800000000000000
+      internalID: 8194463846285864545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_77
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c5327da1b39c140800000000000000
+      internalID: 4740385069248764957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_78
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 260
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5608a3650c5762640800000000000000
+      internalID: 5054857100710805605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 260
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6675e029d30bec0800000000000000
+      internalID: -3553272408480192770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 260
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a2b2882d8596d0800000000000000
+      internalID: -2984323972932132750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_81
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 260
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c01b0d26c55570800000000000000
+      internalID: 8454881772219449836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_82
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 259
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42cc3c55e34772e0800000000000000
+      internalID: -2128157646535212467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 258
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd487b5443fad5f50800000000000000
+      internalID: 6871841245480060124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_84
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 259
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef13bde2ff4a6b870800000000000000
+      internalID: 8698321146222424574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_85
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 258
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543db857e47d29be0800000000000000
+      internalID: -1471877396217212091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_86
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 258
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1212463255d44e0800000000000000
+      internalID: -1995845449363152406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_87
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 257
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1431216a6284f80800000000000000
+      internalID: -8122199433253010957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22362ba227b792540800000000000000
+      internalID: 4983650192934986530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 228
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b421a5f1de039dde0800000000000000
+      internalID: -1307960421783039413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_90
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 228
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391c82c07ac4f4830800000000000000
+      internalID: 4057546069631353235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 228
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c933e017df1fa30800000000000000
+      internalID: 4247454585598483457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_92
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 228
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86beb1850eb4541a0800000000000000
+      internalID: -6825966233287136408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_93
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 223
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b6588c778ed51a0800000000000000
+      internalID: -6819038659606123650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_94
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 223
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bed897fcbeeeb40800000000000000
+      internalID: 5471569873631832986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_95
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 223
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1bb779abe0f5d30800000000000000
+      internalID: 4422269553669288418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_96
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 223
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf1e75276d37120800000000000000
+      internalID: 2410506012162391022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_97
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 223
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a16d66a3ddcd7fd0800000000000000
+      internalID: -2342489922248810079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 223
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f6a4e1b713f8920800000000000000
+      internalID: 2994666682083602307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 198
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbebdd8c725ae5490800000000000000
+      internalID: -7755579917993132357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 198
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761f58fe27bc11960800000000000000
+      internalID: 7571056143091757415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 198
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252973add7423c1b0800000000000000
+      internalID: -5637622185587142062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 198
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5ae63d086d00ab0800000000000000
+      internalID: -5043795733863553564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_103
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 198
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2199c68b878aef690800000000000000
+      internalID: -7566425087492187886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_104
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 198
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee0509891b1e4880800000000000000
+      internalID: -8624926439880978709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_105
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2c2c8dc4d974c00800000000000000
+      internalID: 884848805181309610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_106
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 164
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d233e386c53fb2100800000000000000
+      internalID: 84428596247933741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99435d384c3397530800000000000000
+      internalID: 3853167875310564505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_108
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f495ca251e0910800000000000000
+      internalID: 1805403774069832179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_109
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 164
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c91769a4bcf8e80800000000000000
+      internalID: -8174091277442114449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_110
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 164
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e82a89199a3894f0800000000000000
+      internalID: -821842502762223384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_111
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efb57229b7225cf0800000000000000
+      internalID: -265105751960862743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_112
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f996517f1c1d96f0800000000000000
+      internalID: -676353447664641546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9bd0a7b13f74680800000000000000
+      internalID: -8770774449943365194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_114
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981cf630492212980800000000000000
+      internalID: -8565526997173812855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_115
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21606b3102e9de7c0800000000000000
+      internalID: -4040399430074628590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_116
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3ff05ca5da103d0800000000000000
+      internalID: -3242119651365227538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_117
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c31110e8f448f0800000000000000
+      internalID: -557046812644226905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_118
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 100
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3abb01eba8ada50800000000000000
+      internalID: 6546697557265589160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_119
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb00b0104a8cd180800000000000000
+      internalID: -9089237940177990663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_120
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 100
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ae88cd682ea0b20800000000000000
+      internalID: 3101540362251463254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_121
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dcdea171da45220800000000000000
+      internalID: 2473792410080890237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa23c68d0345550800000000000000
+      internalID: 6148593097353898683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_123
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6fc827ebd25160800000000000000
+      internalID: 7012909355637894932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_124
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 100
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c8c47fae0dc9210800000000000000
+      internalID: 1341176496639478899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_125
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 100
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e126c9c09b87680e0800000000000000
+      internalID: -2267992626158607842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_126
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 68
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7c1dd95c03cb830800000000000000
+      internalID: 4088196187060029436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_127
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 75
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812f63e1a77d94c00800000000000000
+      internalID: 885475721247912472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_128
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fcf65f4d367c000800000000000000
+      internalID: 56123286667382676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_129
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122fa6beed38a1ab0800000000000000
+      internalID: -5036568239804845535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_130
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6106b875caf186fe0800000000000000
+      internalID: -1195670876003278826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d0085d5fdb52260800000000000000
+      internalID: 7072267653401808214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_132
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4e1ef68bd055830800000000000000
+      internalID: 4059165724946588908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_133
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 68
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2655d07c7bf4ea620800000000000000
+      internalID: 2787252870126064994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_134
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 68
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a67f70f89c8eb0c0800000000000000
+      internalID: -4558051184354560348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_135
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 68
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eb8c34d2cd306d0800000000000000
+      internalID: -3025332437693972885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_136
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 36
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07f2733e2b6d7f50800000000000000
+      internalID: 6880773651867825932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_137
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c0868fa7d296fe0800000000000000
+      internalID: -1195374219913327458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1e0428d70c94940800000000000000
+      internalID: 5280963683357352401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_139
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 36
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97be36edf469d320800000000000000
+      internalID: 2583206902926063516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_140
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36439a883da525610800000000000000
+      internalID: 1608447881502078051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_141
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a15409d75dc50510800000000000000
+      internalID: 1514842626866827683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_142
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 36
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d08736f70147390800000000000000
+      internalID: -7821608513520005851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_143
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 36
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f49397888eaeb6f0800000000000000
+      internalID: -666903793390873352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_Vomfy5_144
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 36
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db71c5775fc4f2a40800000000000000
+      internalID: 5345575899865290685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,79 @@
+# GitHub 업로드 제한으로 제외할 파일들
+Library/
+Assets/city/psd/
+# ========== Unity 기본 ==========
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+UserSettings/
+Logs/
+
+# Rider & JetBrains
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.user
+*.booproj
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# 기타 편집기/툴 설정 파일
+*.sublime*
+*.tmproj
+*.tmProperties
+*.log
+*.DS_Store
+*.swp
+*.bak
+*.tmp
+*.orig
+*.db
+
+# 패키지/내보내기/배포 파일
+*.unitypackage
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+
+# 이미지, 비디오, 오디오 (너무 크면 빼자!)
+*.psd
+*.tiff
+*.tga
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.avi
+*.wav
+*.aiff
+*.ogg
+
+# 기타 유니티 자동 생성 파일
+sysinfo.txt
+*.stackdump
+
+# 빌드 플랫폼별
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# 기타 불필요 파일
+*.apk
+*.exe
+*.dll
+*.zip
+*.sln
+*.csproj
